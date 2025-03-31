@@ -60,10 +60,10 @@ h1 {
   margin-right: 1rem;
 }
 
-.benefits li:not(:first-child)::before {
+/* .benefits li:not(:first-child)::before {
   background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21"><circle cx="10.5" cy="10.5" r="10.5" fill="%23FF6155" opacity="0.15"/></svg>')
     no-repeat;
-}
+} */
 
 form {
   display: flex;
